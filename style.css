@@ -16,7 +16,7 @@ body {
     flex-flow: column wrap;
     width: 97%;
     height: 100vh;
-    background-image: url("/Layout-with-flexbox2/images/img2.jpg");
+    background-image: url("/images/img2.jpg");
     background-size: cover;
 }
 .log-nav-container {
